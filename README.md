@@ -1,5 +1,3 @@
-[TOC]
-
 # WebSocket Proxy
 
 A simple websocket proxy server.
